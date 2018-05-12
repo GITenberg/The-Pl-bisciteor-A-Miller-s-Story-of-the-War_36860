@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2680
     wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36860#The-Pl-bisciteor-A-Miller-s-Story-of-the-War
 gutenberg_issued: '2011-07-26'
 gutenberg_type: Text
 identifiers:
