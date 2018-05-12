@@ -1,0 +1,26 @@
+_repo: The-Pl-bisciteor-A-Miller-s-Story-of-the-War_36860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2011-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Third Republic, 1870-1940 -- Fiction'
+title: "The Plébiscite; or, A Miller's Story of the War\r\nBy One of the 7,500,000\
+  \ Who Voted \"Yes\""
+url: http://www.gutenberg.org/ebooks/36860
